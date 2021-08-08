@@ -1,1 +1,1 @@
-[Personal Website](https://ggcr.github.io/)
+https://ggcr.vercel.app/
